@@ -1,0 +1,202 @@
+[
+  {
+    "nazwa_trendu": "Asystenci AI w codziennej pracy",
+    "opis": "Narzędzia AI coraz częściej wspierają analizę, tworzenie treści, programowanie i obsługę klientów.",
+    "megatrend": "Sztuczna inteligencja i automatyzacja"
+  },
+  {
+    "nazwa_trendu": "Agenci AI realizujący procesy",
+    "opis": "Systemy AI przejmują wieloetapowe zadania biznesowe, działając pod nadzorem człowieka.",
+    "megatrend": "Sztuczna inteligencja i automatyzacja"
+  },
+  {
+    "nazwa_trendu": "Robotyzacja magazynów i produkcji",
+    "opis": "Niedobory pracowników i presja kosztowa zwiększają wykorzystanie robotów przemysłowych i mobilnych.",
+    "megatrend": "Sztuczna inteligencja i automatyzacja"
+  },
+  {
+    "nazwa_trendu": "AI działająca lokalnie na urządzeniach",
+    "opis": "Więcej funkcji AI działa bezpośrednio w telefonach, komputerach i maszynach, ograniczając opóźnienia i przesył danych.",
+    "megatrend": "Sztuczna inteligencja i automatyzacja"
+  },
+  {
+    "nazwa_trendu": "Cyfrowe bliźniaki infrastruktury",
+    "opis": "Wirtualne modele fabryk, budynków i sieci wspierają symulacje, konserwację oraz optymalizację zużycia zasobów.",
+    "megatrend": "Sztuczna inteligencja i automatyzacja"
+  },
+  {
+    "nazwa_trendu": "Ciągłe przekwalifikowanie zawodowe",
+    "opis": "Zmiany technologiczne zwiększają potrzebę regularnego zdobywania kompetencji przez cały okres aktywności zawodowej.",
+    "megatrend": "Transformacja pracy i edukacji"
+  },
+  {
+    "nazwa_trendu": "Przebudowa zawodów wokół współpracy z AI",
+    "opis": "Zakres obowiązków przesuwa się od wykonywania rutynowych zadań do kontroli jakości, interpretacji i podejmowania decyzji.",
+    "megatrend": "Transformacja pracy i edukacji"
+  },
+  {
+    "nazwa_trendu": "Rekrutacja oparta na umiejętnościach",
+    "opis": "Firmy częściej uzupełniają ocenę dyplomów praktycznymi testami kompetencji i portfolio.",
+    "megatrend": "Transformacja pracy i edukacji"
+  },
+  {
+    "nazwa_trendu": "Spersonalizowane uczenie wspierane AI",
+    "opis": "Narzędzia edukacyjne dostosowują poziom trudności, tempo i informacje zwrotne do potrzeb uczącej się osoby.",
+    "megatrend": "Transformacja pracy i edukacji"
+  },
+  {
+    "nazwa_trendu": "Projektowanie pracy dla wielu pokoleń",
+    "opis": "Pracodawcy dostosowują stanowiska, szkolenia i czas pracy do bardziej zróżnicowanych wiekowo zespołów.",
+    "megatrend": "Transformacja pracy i edukacji"
+  },
+  {
+    "nazwa_trendu": "Rozwój usług dla seniorów",
+    "opis": "Starzenie się społeczeństw zwiększa popyt na opiekę, dostępne mieszkania, transport i usługi wspierające samodzielność.",
+    "megatrend": "Zmiany demograficzne i dłuższe życie"
+  },
+  {
+    "nazwa_trendu": "Opieka bliżej domu",
+    "opis": "Więcej świadczeń i monitorowania pacjentów przenosi się do domu dzięki usługom środowiskowym i narzędziom zdalnym.",
+    "megatrend": "Zmiany demograficzne i dłuższe życie"
+  },
+  {
+    "nazwa_trendu": "Rosnące znaczenie profilaktyki",
+    "opis": "Systemy opieki i pracodawcy zwiększają zainteresowanie wczesnym wykrywaniem problemów oraz ograniczaniem czynników ryzyka.",
+    "megatrend": "Zmiany demograficzne i dłuższe życie"
+  },
+  {
+    "nazwa_trendu": "Wzrost liczby małych gospodarstw domowych",
+    "opis": "W wielu krajach przybywa gospodarstw jedno- i dwuosobowych, zmieniając potrzeby mieszkaniowe oraz konsumpcję.",
+    "megatrend": "Zmiany demograficzne i dłuższe życie"
+  },
+  {
+    "nazwa_trendu": "Konkurencja o pracowników migracyjnych",
+    "opis": "Kraje z niedoborem osób w wieku produkcyjnym intensyfikują działania na rzecz przyciągania i integracji pracowników.",
+    "megatrend": "Zmiany demograficzne i dłuższe życie"
+  },
+  {
+    "nazwa_trendu": "Wzrost udziału energii słonecznej i wiatrowej",
+    "opis": "Nowe moce odnawialne zwiększają swój udział w produkcji energii, choć tempo zależy od regionu i rozwoju sieci.",
+    "megatrend": "Transformacja energetyczna"
+  },
+  {
+    "nazwa_trendu": "Rozbudowa magazynów energii",
+    "opis": "Baterie i inne technologie magazynowania pomagają bilansować zmienną produkcję oraz zapotrzebowanie na energię.",
+    "megatrend": "Transformacja energetyczna"
+  },
+  {
+    "nazwa_trendu": "Modernizacja sieci elektroenergetycznych",
+    "opis": "Elektryfikacja gospodarki wymusza inwestycje w przesył, dystrybucję i cyfrowe sterowanie siecią.",
+    "megatrend": "Transformacja energetyczna"
+  },
+  {
+    "nazwa_trendu": "Elektryfikacja transportu drogowego",
+    "opis": "Rośnie wykorzystanie napędów elektrycznych w samochodach, autobusach i części transportu dostawczego.",
+    "megatrend": "Transformacja energetyczna"
+  },
+  {
+    "nazwa_trendu": "Elektryfikacja ogrzewania i procesów przemysłowych",
+    "opis": "Pompy ciepła i technologie elektryczne stopniowo zastępują spalanie paliw tam, gdzie jest to technicznie i ekonomicznie uzasadnione.",
+    "megatrend": "Transformacja energetyczna"
+  },
+  {
+    "nazwa_trendu": "Adaptacja miast do upałów",
+    "opis": "Miasta rozwijają zacienianie, zieleń, chłodne nawierzchnie i rozwiązania chroniące mieszkańców przed przegrzewaniem.",
+    "megatrend": "Adaptacja do zmian klimatu"
+  },
+  {
+    "nazwa_trendu": "Retencja i ponowne wykorzystanie wody",
+    "opis": "Rosną inwestycje w zatrzymywanie deszczówki, ograniczanie strat i odzysk wody w miastach oraz przemyśle.",
+    "megatrend": "Adaptacja do zmian klimatu"
+  },
+  {
+    "nazwa_trendu": "Rolnictwo odporne na zmienną pogodę",
+    "opis": "Gospodarstwa wdrażają oszczędne nawadnianie, zróżnicowane uprawy i praktyki poprawiające zdolność gleby do zatrzymywania wody.",
+    "megatrend": "Adaptacja do zmian klimatu"
+  },
+  {
+    "nazwa_trendu": "Uwzględnianie ryzyka klimatycznego w inwestycjach",
+    "opis": "Ryzyko powodzi, suszy i upałów coraz częściej wpływa na lokalizację infrastruktury oraz ocenę wartości aktywów.",
+    "megatrend": "Adaptacja do zmian klimatu"
+  },
+  {
+    "nazwa_trendu": "Rozwój systemów wczesnego ostrzegania",
+    "opis": "Dane satelitarne, czujniki i modele prognozowania wspierają wcześniejsze reagowanie na ekstremalne zjawiska pogodowe.",
+    "megatrend": "Adaptacja do zmian klimatu"
+  },
+  {
+    "nazwa_trendu": "Recykling baterii i odzysk metali",
+    "opis": "Rosnące wykorzystanie baterii zwiększa znaczenie odzyskiwania litu, niklu, miedzi i innych wartościowych surowców.",
+    "megatrend": "Gospodarka obiegu zamkniętego"
+  },
+  {
+    "nazwa_trendu": "Projektowanie produktów do naprawy",
+    "opis": "Trwałość, wymienność części i łatwiejszy serwis zyskują znaczenie w projektowaniu elektroniki oraz innych produktów.",
+    "megatrend": "Gospodarka obiegu zamkniętego"
+  },
+  {
+    "nazwa_trendu": "Rozwój rynku produktów odnowionych",
+    "opis": "Profesjonalna regeneracja i odsprzedaż wydłużają użytkowanie urządzeń, maszyn, mebli i odzieży.",
+    "megatrend": "Gospodarka obiegu zamkniętego"
+  },
+  {
+    "nazwa_trendu": "Cyfrowa identyfikowalność materiałów",
+    "opis": "Firmy szerzej dokumentują pochodzenie, skład i historię produktów, ułatwiając serwis, odzysk oraz kontrolę dostaw.",
+    "megatrend": "Gospodarka obiegu zamkniętego"
+  },
+  {
+    "nazwa_trendu": "Ograniczanie materiałochłonności budownictwa",
+    "opis": "Renowacje, ponowne użycie elementów i oszczędniejsze konstrukcje pomagają zmniejszać zużycie surowców.",
+    "megatrend": "Gospodarka obiegu zamkniętego"
+  },
+  {
+    "nazwa_trendu": "Regionalizacja łańcuchów dostaw",
+    "opis": "Firmy lokują część produkcji bliżej rynków zbytu lub w krajach uznawanych za stabilnych partnerów.",
+    "megatrend": "Fragmentacja geopolityczna i odporność gospodarcza"
+  },
+  {
+    "nazwa_trendu": "Dywersyfikacja dostaw krytycznych",
+    "opis": "Przedsiębiorstwa ograniczają zależność od pojedynczych dostawców komponentów, energii i surowców.",
+    "megatrend": "Fragmentacja geopolityczna i odporność gospodarcza"
+  },
+  {
+    "nazwa_trendu": "Rozbudowa krajowych zdolności technologicznych",
+    "opis": "Państwa wspierają strategiczne kompetencje w półprzewodnikach, infrastrukturze obliczeniowej i technologiach energetycznych.",
+    "megatrend": "Fragmentacja geopolityczna i odporność gospodarcza"
+  },
+  {
+    "nazwa_trendu": "Automatyzacja kontroli handlu i dostaw",
+    "opis": "Złożoność ograniczeń handlowych zwiększa zapotrzebowanie na narzędzia sprawdzające kontrahentów, pochodzenie towarów i zgodność transakcji.",
+    "megatrend": "Fragmentacja geopolityczna i odporność gospodarcza"
+  },
+  {
+    "nazwa_trendu": "Wzmacnianie odporności infrastruktury krytycznej",
+    "opis": "Operatorzy rozwijają redundancję, plany ciągłości działania i zabezpieczenia przed awariami oraz atakami.",
+    "megatrend": "Fragmentacja geopolityczna i odporność gospodarcza"
+  },
+  {
+    "nazwa_trendu": "Weryfikacja autentyczności treści cyfrowych",
+    "opis": "Rozpowszechnienie treści syntetycznych zwiększa potrzebę potwierdzania źródła, autorstwa i historii materiałów.",
+    "megatrend": "Cyberbezpieczeństwo i zaufanie cyfrowe"
+  },
+  {
+    "nazwa_trendu": "Upowszechnianie logowania bez haseł",
+    "opis": "Klucze dostępu i uwierzytelnianie sprzętowe stopniowo ograniczają zależność od tradycyjnych haseł.",
+    "megatrend": "Cyberbezpieczeństwo i zaufanie cyfrowe"
+  },
+  {
+    "nazwa_trendu": "Przygotowania do kryptografii postkwantowej",
+    "opis": "Organizacje inwentaryzują zabezpieczenia i rozpoczynają migrację do metod odpornych na przyszłe ataki komputerów kwantowych.",
+    "megatrend": "Cyberbezpieczeństwo i zaufanie cyfrowe"
+  },
+  {
+    "nazwa_trendu": "Nadzór i audyt systemów AI",
+    "opis": "Wdrażaniu AI coraz częściej towarzyszą oceny jakości, bezpieczeństwa, odpowiedzialności i sposobu wykorzystania danych.",
+    "megatrend": "Cyberbezpieczeństwo i zaufanie cyfrowe"
+  },
+  {
+    "nazwa_trendu": "Przetwarzanie danych z ochroną prywatności",
+    "opis": "Rośnie znaczenie minimalizacji danych oraz technologii pozwalających analizować informacje bez zbędnego ujawniania danych osobowych.",
+    "megatrend": "Cyberbezpieczeństwo i zaufanie cyfrowe"
+  }
+]
